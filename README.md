@@ -1,1 +1,4 @@
-# devops-aula02
+# Devops-aula02
+# Tom Holland
+# Chris Pratt
+# Benedict Cumberbatch
